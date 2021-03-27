@@ -32,7 +32,8 @@ Here some of algorithm are used that are some types of machine learning subparts
 -metrics
 -train_test_split: We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ) My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
 
-I have written a Research papers on "Performance Evaluation of Supervised Learning for Iris Flower Species": **[LINK]( http://ijirt.org/Article?manuscript=147862)**
+### Research Paper
+I have written a Research papers on: **[LINK]( http://ijirt.org/Article?manuscript=147862)**
 
 
 ### Hi there:) 
@@ -42,5 +43,7 @@ I have written a Research papers on "Performance Evaluation of Supervised Learni
 Gmail: **projectspro007@gmail.com**
 
 WebSite: **[ProjectsPRO](https://projectspro.in/)**
+
+Thanking to Our CEO **[Vatshayan](https://github.com/Vatshayan)** for always helping everyone.
 
 Happy to help you!
