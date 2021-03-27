@@ -16,13 +16,31 @@ The Cryptography is gotten from a Greek word which implies the craft of ensuring
 
 You can view and read my Research paper at- **[LINK](https://ieeexplore.ieee.org/document/9199997)** 
 
+### Research Paper Project2: Flower species Detection Project
+
+### Abstract
+Machine Learning is a field of computer science pro-vides the ability to learn without programming and the program explicitly. Supervised Machine Learning (SML) is the search for algorithms that reason from externally supplied instances to produce general hy-potheses, which then make predictions about future in-stances. Classification and Regression is a supervised learning in which the response is categorical that is its values are in finite Discrete and continuous set. To sim-ply the problem of classification, scikit learn tools has been used. This paper focuses on IRIS flower classifica-tion using Machine Learning with scikit tools. In this paper we will train the machine learning model with the given Iris Dataset and Analysis the performance and accuracy of Iris with Supervised Learning Algo-rithms.
+
+Here some of algorithm are used that are some types of machine learning subparts algorithms of supervised and Unsupervised learning.
+
+**Algorithm used for predicting and get accuracy are -**
+
+-Dicision tree classifier
+-K nearest classifier
+-SVM
+-Logistic Regression
+-metrics
+-train_test_split: We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ) My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
+
+I have written a Research papers on "Performance Evaluation of Supervised Learning for Iris Flower Species": **[LINK]( http://ijirt.org/Article?manuscript=147862)**
+
 
 ### Hi there:) 
 
-Contact for More Projects Help on Research Paper:
+**Contact** for More Projects Help on Research Paper:
 
 Gmail: **projectspro007@gmail.com**
 
-**[ProjectsPRO](https://projectspro.in/)**
+WebSite: **[ProjectsPRO](https://projectspro.in/)**
 
 Happy to help you!
