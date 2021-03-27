@@ -4,9 +4,7 @@ IEEE Research paper with Code. Top class collection of IEEE Projects. Machine le
 
 ### Top cLass Projects with Code:
 
-### IEEE PRoject1
-
-# IEEE-Project
+### IEEE PRoject1 : Cryptography Communication System
 
 IEEE Research paper and Final Year Project on Cryptography Communication Security.
 
