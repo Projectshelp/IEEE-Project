@@ -35,6 +35,9 @@ Here some of algorithm are used that are some types of machine learning subparts
 ### Research Paper
 I have written a Research papers on: **[LINK]( http://ijirt.org/Article?manuscript=147862)**
 
+### WANT FULL PROJECT
+Mail me at **vatshayan007@gmail.com** 
+
 
 ### Hi there:) 
 
