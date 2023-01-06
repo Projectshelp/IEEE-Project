@@ -35,18 +35,13 @@ Here some of algorithm are used that are some types of machine learning subparts
 ### Research Paper
 I have written a Research papers on: **[LINK]( http://ijirt.org/Article?manuscript=147862)**
 
-### WANT FULL PROJECT
-Mail me at **projectspro007@gmail.com** 
-
 
 ### Hi there:) 
 
-**Contact** for More Projects Help on Research Paper:
+**Contact** for More Projects Help on Research Paper and Projects:
 
-Gmail: **projectspro007@gmail.com**
+Mail : vatshayan007@gmail.com
 
-WebSite: **[ProjectsPRO](https://projectspro.in/)**
-
-Thanking to Our CEO **[Vatshayan](https://github.com/Vatshayan)** for always helping everyone.
+Website : https://www.finalproject.in/
 
 Happy to help you!
