@@ -2,9 +2,9 @@
 IEEE Research paper with Code. Top class collection of IEEE Projects. Machine learning, Cryptography, Data science and Blockchain Projects
 
 
-### Top cLass Projects with Code:
+### Projects with Code:
 
-### IEEE PRoject1 : Cryptography Communication System
+### IEEE Project1 : Cryptography Communication System
 
 IEEE Research paper and Final Year Project on Cryptography Communication Security.
 
@@ -32,8 +32,12 @@ Here some of algorithm are used that are some types of machine learning subparts
 -metrics
 -train_test_split: We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ) My Codes, thinking, analytics and logic for making this prediction is unmatchable and best !!
 
+
 ### Research Paper
 I have written a Research papers on: **[LINK]( http://ijirt.org/Article?manuscript=147862)**
+
+
+### More IEEE Projects : https://www.youtube.com/watch?v=T0wEstYgztU
 
 
 ### Hi there:) 
